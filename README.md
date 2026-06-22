@@ -166,7 +166,8 @@ Make sure `super store.xlsx` is in the same folder as the notebook before runnin
 ## About the Analyst
 
 **Idumhanlena Ehizojie Efosa**
-Acertified Data Analyst, proficient in analytical tools
+
+A certified Data Analyst, proficient in analytical tools
 
 This capstone project applies structured data analytics methodology to a real-world retail business context, combining evidence-based thinking from a clinical background with data-driven decision making.
 
