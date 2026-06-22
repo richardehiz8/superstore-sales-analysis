@@ -179,4 +179,4 @@ This project is an academic and professional capstone. The Super Store dataset i
 
 ---
 
-*Super Store Sales Analysis · Osadeba Enobakhare · June 2026*
+*Super Store Sales Analysis · Idumhanlena Ehizojie Efosa · June 2026*
